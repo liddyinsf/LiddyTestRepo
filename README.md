@@ -1,0 +1,1 @@
+This is a test to add file from IDE to GitHub
